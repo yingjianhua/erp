@@ -1,0 +1,2262 @@
+[2016-12-30 02:13:21][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.sys.Sys����Ϣ...
+[2016-12-30 02:13:21][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.lg.Lg����Ϣ...
+[2016-12-30 02:13:21][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.gl.gl.Gl����Ϣ...
+[2016-12-30 02:13:22][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.gl.rp.Rp����Ϣ...
+[2016-12-30 10:45:52][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.sys.Sys����Ϣ...
+[2016-12-30 10:45:52][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.lg.Lg����Ϣ...
+[2016-12-30 10:45:52][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.gl.gl.Gl����Ϣ...
+[2016-12-30 10:45:52][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.gl.rp.Rp����Ϣ...
+[2016-12-30 10:47:22][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.sys.Sys����Ϣ...
+[2016-12-30 10:47:22][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.lg.Lg����Ϣ...
+[2016-12-30 10:47:22][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.gl.gl.Gl����Ϣ...
+[2016-12-30 10:47:23][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.gl.rp.Rp����Ϣ...
+[2016-12-30 11:31:19][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.sys.Sys����Ϣ...
+[2016-12-30 11:31:19][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.lg.Lg����Ϣ...
+[2016-12-30 11:31:19][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.gl.gl.Gl����Ϣ...
+[2016-12-30 11:31:19][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.gl.rp.Rp����Ϣ...
+[2016-12-30 11:32:28][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.sys.Sys����Ϣ...
+[2016-12-30 11:32:28][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.lg.Lg����Ϣ...
+[2016-12-30 11:32:28][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.gl.gl.Gl����Ϣ...
+[2016-12-30 11:32:29][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.gl.rp.Rp����Ϣ...
+[2016-12-30 11:46:50][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.sys.Sys����Ϣ...
+[2016-12-30 11:46:50][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.lg.Lg����Ϣ...
+[2016-12-30 11:46:50][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.gl.gl.Gl����Ϣ...
+[2016-12-30 11:52:47][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.sys.Sys����Ϣ...
+[2016-12-30 11:52:47][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.lg.Lg����Ϣ...
+[2016-12-30 11:52:47][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.gl.gl.Gl����Ϣ...
+[2016-12-30 11:56:59][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.sys.Sys】信息...
+[2016-12-30 11:56:59][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.lg.Lg】信息...
+[2016-12-30 11:56:59][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.gl.Gl】信息...
+[2016-12-30 11:56:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgAttemper.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 11:56:59][INFO ] irille.pub.svr.DbPool
+DbPool初始化开始
+[2016-12-30 11:56:59][INFO ] snaq.db.ConnectionPoolManager
+Loaded ConnectionPoolManager properties with encoding UTF-8
+[2016-12-30 11:56:59][INFO ] snaq.db.ConnectionPoolManager.irille
+irille: Created pool irille (minpool=0,maxpool=100,maxsize=100,idleTimeout=60)
+[2016-12-30 11:56:59][INFO ] irille.pub.svr.DbPool
+DbPool初始化成功
+[2016-12-30 11:56:59][INFO ] irille.pub.svr.DbPool
+init poolManager end...
+[2016-12-30 11:56:59][INFO ] snaq.db.ConnectionPool.irille
+irille: Getting connection (user/password): jdbc:mysql://localhost:3306/erp?useUnicode=true&characterEncoding=UTF8
+[2016-12-30 11:57:00][INFO ] snaq.db.ConnectionPool.irille
+irille: Created a new connection
+[2016-12-30 11:57:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgLogin.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 11:57:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgTran.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 11:57:45][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.sys.Sys】信息...
+[2016-12-30 11:57:45][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.lg.Lg】信息...
+[2016-12-30 11:57:45][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.gl.Gl】信息...
+[2016-12-30 11:57:45][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgAttemper.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 11:57:45][INFO ] irille.pub.svr.DbPool
+DbPool初始化开始
+[2016-12-30 11:57:45][INFO ] snaq.db.ConnectionPoolManager
+Loaded ConnectionPoolManager properties with encoding UTF-8
+[2016-12-30 11:57:45][INFO ] snaq.db.ConnectionPoolManager.irille
+irille: Created pool irille (minpool=0,maxpool=100,maxsize=100,idleTimeout=60)
+[2016-12-30 11:57:45][INFO ] irille.pub.svr.DbPool
+DbPool初始化成功
+[2016-12-30 11:57:45][INFO ] irille.pub.svr.DbPool
+init poolManager end...
+[2016-12-30 11:57:45][INFO ] snaq.db.ConnectionPool.irille
+irille: Getting connection (user/password): jdbc:mysql://localhost:3306/erp?useUnicode=true&characterEncoding=UTF8
+[2016-12-30 11:57:46][INFO ] snaq.db.ConnectionPool.irille
+irille: Created a new connection
+[2016-12-30 12:04:12][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.sys.Sys】信息...
+[2016-12-30 12:04:12][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.lg.Lg】信息...
+[2016-12-30 12:04:12][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.gl.Gl】信息...
+[2016-12-30 12:04:12][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgAttemper.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 12:04:12][INFO ] irille.pub.svr.DbPool
+DbPool初始化开始
+[2016-12-30 12:04:12][INFO ] snaq.db.ConnectionPoolManager
+Loaded ConnectionPoolManager properties with encoding UTF-8
+[2016-12-30 12:04:12][INFO ] snaq.db.ConnectionPoolManager.irille
+irille: Created pool irille (minpool=0,maxpool=100,maxsize=100,idleTimeout=60)
+[2016-12-30 12:04:12][INFO ] irille.pub.svr.DbPool
+DbPool初始化成功
+[2016-12-30 12:04:12][INFO ] irille.pub.svr.DbPool
+init poolManager end...
+[2016-12-30 12:04:12][INFO ] snaq.db.ConnectionPool.irille
+irille: Getting connection (user/password): jdbc:mysql://localhost:3306/erp?useUnicode=true&characterEncoding=UTF8
+[2016-12-30 12:04:12][INFO ] snaq.db.ConnectionPool.irille
+irille: Created a new connection
+[2016-12-30 12:09:42][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.sys.Sys����Ϣ...
+[2016-12-30 12:09:43][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.lg.Lg����Ϣ...
+[2016-12-30 12:09:43][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.gl.gl.Gl����Ϣ...
+[2016-12-30 12:10:29][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.sys.Sys����Ϣ...
+[2016-12-30 12:10:29][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.lg.Lg����Ϣ...
+[2016-12-30 12:10:29][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.gl.gl.Gl����Ϣ...
+[2016-12-30 12:32:06][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.sys.Sys����Ϣ...
+[2016-12-30 12:32:06][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.lg.Lg����Ϣ...
+[2016-12-30 12:32:06][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.gl.gl.Gl����Ϣ...
+[2016-12-30 12:32:06][INFO ] irille.pub.FileText
+�ļ�[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgAttemper.java]���޸�, �밴��F5����ͬ����ʾ����!
+[2016-12-30 12:32:06][INFO ] irille.pub.svr.DbPool
+DbPool��ʼ����ʼ
+[2016-12-30 12:32:06][INFO ] snaq.db.ConnectionPoolManager
+Loaded ConnectionPoolManager properties with encoding GBK
+[2016-12-30 12:32:06][INFO ] snaq.db.ConnectionPoolManager.irille
+irille: Created pool irille (minpool=0,maxpool=100,maxsize=100,idleTimeout=60)
+[2016-12-30 12:32:06][INFO ] irille.pub.svr.DbPool
+DbPool��ʼ���ɹ�
+[2016-12-30 12:32:06][INFO ] irille.pub.svr.DbPool
+init poolManager end...
+[2016-12-30 12:32:06][INFO ] snaq.db.ConnectionPool.irille
+irille: Getting connection (user/password): jdbc:mysql://localhost:3306/erp?useUnicode=true&characterEncoding=UTF8
+[2016-12-30 12:32:06][INFO ] snaq.db.ConnectionPool.irille
+irille: Created a new connection
+[2016-12-30 12:32:06][INFO ] irille.pub.FileText
+�ļ�[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgLogin.java]���޸�, �밴��F5����ͬ����ʾ����!
+[2016-12-30 12:32:06][INFO ] irille.pub.FileText
+�ļ�[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgTran.java]���޸�, �밴��F5����ͬ����ʾ����!
+[2016-12-30 13:06:17][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.sys.Sys����Ϣ...
+[2016-12-30 13:06:17][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.core.lg.Lg����Ϣ...
+[2016-12-30 13:06:17][INFO ] irille.pub.bean.PackageBase
+��ʼ��ģ�顾class irille.gl.gl.Gl����Ϣ...
+[2016-12-30 13:06:17][ERROR] irille.pub.FileText
+notFoundStr:�ļ�[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgAttemper.java]û�е������ַ�[>>>�������Զ��������ֶζ������----]���У�
+[2016-12-30 13:06:17][ERROR] irille.pub.FileText
+notFoundStr:�ļ�[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgLogin.java]û�е������ַ�[>>>�������Զ��������ֶζ������----]���У�
+[2016-12-30 13:06:17][ERROR] irille.pub.FileText
+notFoundStr:�ļ�[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgTran.java]û�е������ַ�[>>>�������Զ��������ֶζ������----]���У�
+[2016-12-30 13:11:55][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.sys.Sys】信息...
+[2016-12-30 13:11:55][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.lg.Lg】信息...
+[2016-12-30 13:11:55][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.gl.Gl】信息...
+[2016-12-30 13:11:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgAttemper.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:11:55][INFO ] irille.pub.svr.DbPool
+DbPool初始化开始
+[2016-12-30 13:11:55][INFO ] snaq.db.ConnectionPoolManager
+Loaded ConnectionPoolManager properties with encoding UTF-8
+[2016-12-30 13:11:55][INFO ] snaq.db.ConnectionPoolManager.irille
+irille: Created pool irille (minpool=0,maxpool=100,maxsize=100,idleTimeout=60)
+[2016-12-30 13:11:55][INFO ] irille.pub.svr.DbPool
+DbPool初始化成功
+[2016-12-30 13:11:55][INFO ] irille.pub.svr.DbPool
+init poolManager end...
+[2016-12-30 13:11:55][INFO ] snaq.db.ConnectionPool.irille
+irille: Getting connection (user/password): jdbc:mysql://localhost:3306/erp?useUnicode=true&characterEncoding=UTF8
+[2016-12-30 13:11:56][INFO ] snaq.db.ConnectionPool.irille
+irille: Created a new connection
+[2016-12-30 13:11:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgLogin.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:11:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgTran.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:19:06][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.sys.Sys】信息...
+[2016-12-30 13:19:07][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.lg.Lg】信息...
+[2016-12-30 13:19:07][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.gl.Gl】信息...
+[2016-12-30 13:19:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgAttemper.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:19:07][INFO ] irille.pub.svr.DbPool
+DbPool初始化开始
+[2016-12-30 13:19:07][INFO ] snaq.db.ConnectionPoolManager
+Loaded ConnectionPoolManager properties with encoding UTF-8
+[2016-12-30 13:19:07][INFO ] snaq.db.ConnectionPoolManager.irille
+irille: Created pool irille (minpool=0,maxpool=100,maxsize=100,idleTimeout=60)
+[2016-12-30 13:19:07][INFO ] irille.pub.svr.DbPool
+DbPool初始化成功
+[2016-12-30 13:19:07][INFO ] irille.pub.svr.DbPool
+init poolManager end...
+[2016-12-30 13:19:07][INFO ] snaq.db.ConnectionPool.irille
+irille: Getting connection (user/password): jdbc:mysql://localhost:3306/erp?useUnicode=true&characterEncoding=UTF8
+[2016-12-30 13:19:07][INFO ] snaq.db.ConnectionPool.irille
+irille: Created a new connection
+[2016-12-30 13:19:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgLogin.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:19:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgTran.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:24:25][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.sys.Sys】信息...
+[2016-12-30 13:24:25][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.lg.Lg】信息...
+[2016-12-30 13:24:25][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.gl.Gl】信息...
+[2016-12-30 13:24:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgAttemper.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:24:25][INFO ] irille.pub.svr.DbPool
+DbPool初始化开始
+[2016-12-30 13:24:25][INFO ] snaq.db.ConnectionPoolManager
+Loaded ConnectionPoolManager properties with encoding UTF-8
+[2016-12-30 13:24:25][INFO ] snaq.db.ConnectionPoolManager.irille
+irille: Created pool irille (minpool=0,maxpool=100,maxsize=100,idleTimeout=60)
+[2016-12-30 13:24:25][INFO ] irille.pub.svr.DbPool
+DbPool初始化成功
+[2016-12-30 13:24:25][INFO ] irille.pub.svr.DbPool
+init poolManager end...
+[2016-12-30 13:24:25][INFO ] snaq.db.ConnectionPool.irille
+irille: Getting connection (user/password): jdbc:mysql://localhost:3306/erp?useUnicode=true&characterEncoding=UTF8
+[2016-12-30 13:24:25][INFO ] snaq.db.ConnectionPool.irille
+irille: Created a new connection
+[2016-12-30 13:24:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgLogin.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:24:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgTran.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:27:23][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.sys.Sys】信息...
+[2016-12-30 13:27:23][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.lg.Lg】信息...
+[2016-12-30 13:27:23][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.gl.Gl】信息...
+[2016-12-30 13:27:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgAttemper.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:27:23][INFO ] irille.pub.svr.DbPool
+DbPool初始化开始
+[2016-12-30 13:27:23][INFO ] snaq.db.ConnectionPoolManager
+Loaded ConnectionPoolManager properties with encoding UTF-8
+[2016-12-30 13:27:23][INFO ] snaq.db.ConnectionPoolManager.irille
+irille: Created pool irille (minpool=0,maxpool=100,maxsize=100,idleTimeout=60)
+[2016-12-30 13:27:23][INFO ] irille.pub.svr.DbPool
+DbPool初始化成功
+[2016-12-30 13:27:23][INFO ] irille.pub.svr.DbPool
+init poolManager end...
+[2016-12-30 13:27:23][INFO ] snaq.db.ConnectionPool.irille
+irille: Getting connection (user/password): jdbc:mysql://localhost:3306/erp?useUnicode=true&characterEncoding=UTF8
+[2016-12-30 13:27:23][INFO ] snaq.db.ConnectionPool.irille
+irille: Created a new connection
+[2016-12-30 13:27:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgLogin.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:27:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgTran.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:16][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.sys.Sys】信息...
+[2016-12-30 13:32:16][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.lg.Lg】信息...
+[2016-12-30 13:32:16][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.gl.Gl】信息...
+[2016-12-30 13:32:16][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsDemand.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:16][INFO ] irille.pub.svr.DbPool
+DbPool初始化开始
+[2016-12-30 13:32:16][INFO ] snaq.db.ConnectionPoolManager
+Loaded ConnectionPoolManager properties with encoding UTF-8
+[2016-12-30 13:32:16][INFO ] snaq.db.ConnectionPoolManager.irille
+irille: Created pool irille (minpool=0,maxpool=100,maxsize=100,idleTimeout=60)
+[2016-12-30 13:32:16][INFO ] irille.pub.svr.DbPool
+DbPool初始化成功
+[2016-12-30 13:32:16][INFO ] irille.pub.svr.DbPool
+init poolManager end...
+[2016-12-30 13:32:16][INFO ] snaq.db.ConnectionPool.irille
+irille: Getting connection (user/password): jdbc:mysql://localhost:3306/erp?useUnicode=true&characterEncoding=UTF8
+[2016-12-30 13:32:16][INFO ] snaq.db.ConnectionPool.irille
+irille: Created a new connection
+[2016-12-30 13:32:16][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsDemandDirect.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:16][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGain.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:16][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGainLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:16][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:16][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGoodsCmb.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGoodsKind.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsInit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsInitLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsInLineView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsJlStock.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsJlStockLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsLocation.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsLoss.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsLossLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsMovement.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsMovementLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsOutLineView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPhyinv.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPhyinvBatchLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPhyinvGoodsLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPrice.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPriceCtl.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:17][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPriceGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPriceGoodsCell.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPriceGoodsKind.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsReportMvOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsReportPurIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsReportSalOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsRequest.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsRequestLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsSplit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsSplitLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsStock.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsStockBatch.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsStockLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsStockStimate.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsUnite.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsUniteLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsUom.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsUomType.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsWarehouse.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:18][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDailyLedger.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDaybook.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDaybookLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlEntryDef.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlEntryDefLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlJournal.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlJournalLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteAmtCancel.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteViewRp.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteWriteoff.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteWriteoffLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlRate.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlRateType.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReport.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportAsset.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportAssetLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportProfit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportProfitLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlSubject.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlSubjectMap.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlTransform.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:19][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlGoodsLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.rp.Rp】信息...
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpFundMvOld.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpHandover.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpHandoverLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpJournal.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpJournalLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNoteCashPay.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNoteCashRpt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNotePay.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNotePayBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNoteRpt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNoteRptBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpSeal.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpStimatePay.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpStimateRec.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpWorkBox.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpWorkBoxGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalCollect.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalCollectView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:20][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalCustGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalDiscountPriv.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalMvOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalMvOutLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalOrder.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalOrderLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalPresent.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalPresentLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalPriceProt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalPriceProtMv.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalReserve.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalReserveLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalRetail.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalRetailLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalRtn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalRtnLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSale.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleCross.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleCrossLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleDirect.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleDirectLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:21][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurMvIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurMvInLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurOrder.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurOrderDirect.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurOrderDirectLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurOrderLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurPresent.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurPresentLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProtApply.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProtGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProtGoodsApply.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProtGoodsApplyLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRev.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRevLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRpt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRtn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRtnLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\frm\FrmHandover.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:22][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\frm\FrmHandoverLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\frm\FrmLink.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\frm\FrmPending.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvRole.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvRoleAct.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvRoleLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvRoleTran.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvTranData.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvTranGrp.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCell.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCom.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCtype.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCtypeCode.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCustom.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCustomOrg.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysDept.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysEm.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysGrp.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:23][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysMenu.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysMenuAct.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysModule.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysOrg.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysPerson.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysPersonLink.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysPost.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysProject.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSeq.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSeqLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysShiping.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSupplier.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSupplierOrg.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSystem.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysTable.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysTableAct.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysTemplat.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysTemplatCell.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysUser.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysUserLogin.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysUserRole.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:24][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteAccount.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteAccountLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteCashOnDelivery.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteCashOnDeliveryLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteDeposit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteDepositLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteOther.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteOtherLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecDepBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecDepWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecOtherBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecOtherWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNoteAccountPayable.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNoteAccountPayableLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNoteDepositPayable.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNoteDepositPayableLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNotePayable.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:25][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNotePayableLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayDepBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayDepWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayOtherBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayOtherWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstInLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstInRed.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstInRedLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstMvInvoiceIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstMvInvoiceInLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstMvInvoiceOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstMvInvoiceOutLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstOutLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstOutRed.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstOutRedLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstPurInvoice.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:26][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstPurInvoiceLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:27][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstPurInvoiceRed.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:27][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstPurInvoiceRedLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:27][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstSalInvoice.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:27][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstSalInvoiceLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:27][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstSalInvoiceRed.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:27][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstSalInvoiceRedLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:27][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgAttemper.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:27][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgLogin.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:32:27][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgTran.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:09][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.sys.Sys】信息...
+[2016-12-30 13:35:09][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.lg.Lg】信息...
+[2016-12-30 13:35:09][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.gl.Gl】信息...
+[2016-12-30 13:35:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDailyLedger.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:09][INFO ] irille.pub.svr.DbPool
+DbPool初始化开始
+[2016-12-30 13:35:09][INFO ] snaq.db.ConnectionPoolManager
+Loaded ConnectionPoolManager properties with encoding UTF-8
+[2016-12-30 13:35:09][INFO ] snaq.db.ConnectionPoolManager.irille
+irille: Created pool irille (minpool=0,maxpool=100,maxsize=100,idleTimeout=60)
+[2016-12-30 13:35:09][INFO ] irille.pub.svr.DbPool
+DbPool初始化成功
+[2016-12-30 13:35:09][INFO ] irille.pub.svr.DbPool
+init poolManager end...
+[2016-12-30 13:35:09][INFO ] snaq.db.ConnectionPool.irille
+irille: Getting connection (user/password): jdbc:mysql://localhost:3306/erp?useUnicode=true&characterEncoding=UTF8
+[2016-12-30 13:35:10][INFO ] snaq.db.ConnectionPool.irille
+irille: Created a new connection
+[2016-12-30 13:35:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDaybook.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDaybookLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlEntryDef.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlEntryDefLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlJournal.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlJournalLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteAmtCancel.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteViewRp.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteWriteoff.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteWriteoffLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlRate.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlRateType.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReport.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportAsset.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportAssetLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportProfit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportProfitLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlSubject.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlSubjectMap.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlTransform.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:35:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlGoodsLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:00][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.sys.Sys】信息...
+[2016-12-30 13:39:00][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.lg.Lg】信息...
+[2016-12-30 13:39:00][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.gl.Gl】信息...
+[2016-12-30 13:39:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDailyLedger.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:00][INFO ] irille.pub.svr.DbPool
+DbPool初始化开始
+[2016-12-30 13:39:00][INFO ] snaq.db.ConnectionPoolManager
+Loaded ConnectionPoolManager properties with encoding UTF-8
+[2016-12-30 13:39:00][INFO ] snaq.db.ConnectionPoolManager.irille
+irille: Created pool irille (minpool=0,maxpool=100,maxsize=100,idleTimeout=60)
+[2016-12-30 13:39:00][INFO ] irille.pub.svr.DbPool
+DbPool初始化成功
+[2016-12-30 13:39:00][INFO ] irille.pub.svr.DbPool
+init poolManager end...
+[2016-12-30 13:39:00][INFO ] snaq.db.ConnectionPool.irille
+irille: Getting connection (user/password): jdbc:mysql://localhost:3306/erp?useUnicode=true&characterEncoding=UTF8
+[2016-12-30 13:39:01][INFO ] snaq.db.ConnectionPool.irille
+irille: Created a new connection
+[2016-12-30 13:39:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDaybook.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDaybookLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlEntryDef.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlEntryDefLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlJournal.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlJournalLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNote.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteAmtCancel.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteViewRp.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteWriteoff.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteWriteoffLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlRate.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlRateType.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReport.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportAsset.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportAssetLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportProfit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportProfitLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlSubject.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlSubjectMap.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlTransform.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlGoodsLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:30][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.sys.Sys】信息...
+[2016-12-30 13:39:30][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.lg.Lg】信息...
+[2016-12-30 13:39:30][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.gl.Gl】信息...
+[2016-12-30 13:39:30][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsDemand.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:30][INFO ] irille.pub.svr.DbPool
+DbPool初始化开始
+[2016-12-30 13:39:30][INFO ] snaq.db.ConnectionPoolManager
+Loaded ConnectionPoolManager properties with encoding UTF-8
+[2016-12-30 13:39:30][INFO ] snaq.db.ConnectionPoolManager.irille
+irille: Created pool irille (minpool=0,maxpool=100,maxsize=100,idleTimeout=60)
+[2016-12-30 13:39:30][INFO ] irille.pub.svr.DbPool
+DbPool初始化成功
+[2016-12-30 13:39:30][INFO ] irille.pub.svr.DbPool
+init poolManager end...
+[2016-12-30 13:39:30][INFO ] snaq.db.ConnectionPool.irille
+irille: Getting connection (user/password): jdbc:mysql://localhost:3306/erp?useUnicode=true&characterEncoding=UTF8
+[2016-12-30 13:39:30][INFO ] snaq.db.ConnectionPool.irille
+irille: Created a new connection
+[2016-12-30 13:39:30][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsDemandDirect.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:30][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGain.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:30][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGainLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:31][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:31][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGoodsCmb.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:31][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGoodsKind.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:31][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:31][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsInit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:31][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsInitLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:31][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsInLineView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:31][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsJlStock.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:31][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsJlStockLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:31][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsLocation.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:31][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsLoss.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:31][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsLossLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:31][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsMovement.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:31][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsMovementLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:31][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:32][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsOutLineView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:32][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPhyinv.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:32][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPhyinvBatchLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:32][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPhyinvGoodsLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:32][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPrice.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:32][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPriceCtl.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:32][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPriceGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:32][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPriceGoodsCell.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:32][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPriceGoodsKind.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:32][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsReportMvOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:32][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsReportPurIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:32][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsReportSalOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:32][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsRequest.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:32][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsRequestLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:32][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsSplit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:32][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsSplitLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:32][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsStock.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:33][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsStockBatch.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:33][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsStockLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:33][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsStockStimate.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:33][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsUnite.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:33][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsUniteLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:33][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsUom.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:33][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsUomType.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:33][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsWarehouse.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:33][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDailyLedger.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:33][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDaybook.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:33][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDaybookLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:33][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlEntryDef.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:34][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlEntryDefLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:34][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlJournal.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:34][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlJournalLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:34][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNote.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:34][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteAmtCancel.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:34][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:34][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteViewRp.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:34][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteWriteoff.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:34][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteWriteoffLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:34][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlRate.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:34][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlRateType.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:34][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReport.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:34][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportAsset.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:34][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportAssetLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:34][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:34][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportProfit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:35][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportProfitLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:35][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlSubject.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:35][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlSubjectMap.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:35][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlTransform.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:35][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:35][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlGoodsLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:35][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.rp.Rp】信息...
+[2016-12-30 13:39:35][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpFundMvOld.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:35][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpHandover.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:35][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpHandoverLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:35][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpJournal.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:35][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpJournalLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:35][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNoteCashPay.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:35][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNoteCashRpt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:36][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNotePay.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:36][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNotePayBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:36][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNoteRpt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:36][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNoteRptBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:36][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpSeal.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:36][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpStimatePay.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:36][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpStimateRec.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:36][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpWorkBox.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:36][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpWorkBoxGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:36][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalCollect.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:36][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalCollectView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:36][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalCustGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:36][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalDiscountPriv.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:36][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalMvOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:36][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalMvOutLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:37][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalOrder.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:37][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalOrderLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:37][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalPresent.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:37][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalPresentLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:37][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalPriceProt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:37][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalPriceProtMv.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:37][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalReserve.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:37][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalReserveLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:37][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalRetail.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:37][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalRetailLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:37][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalRtn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:37][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalRtnLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:37][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSale.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:37][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleCross.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:38][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleCrossLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:38][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleDirect.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:38][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleDirectLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:38][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:38][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurMvIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:38][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurMvInLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:38][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurOrder.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:38][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurOrderDirect.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:38][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurOrderDirectLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:38][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurOrderLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:38][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurPresent.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:38][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurPresentLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:38][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:38][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProtApply.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:38][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProtGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:39][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProtGoodsApply.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:39][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProtGoodsApplyLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:39][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRev.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:39][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRevLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:39][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRpt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:39][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRtn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:39][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRtnLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:39][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\frm\FrmHandover.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:39][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\frm\FrmHandoverLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:39][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\frm\FrmLink.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:39][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\frm\FrmPending.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:39][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvRole.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:39][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvRoleAct.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:39][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvRoleLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:39][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvRoleTran.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:40][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvTranData.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:40][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvTranGrp.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:40][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCell.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:40][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCom.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:40][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCtype.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:40][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCtypeCode.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:40][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCustom.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:40][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCustomOrg.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:40][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysDept.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:40][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysEm.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:40][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysGrp.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:40][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysMenu.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:40][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysMenuAct.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:40][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysModule.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:40][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysOrg.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:41][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysPerson.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:41][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysPersonLink.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:41][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysPost.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:41][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysProject.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:41][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSeq.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:41][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSeqLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:41][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysShiping.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:41][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSupplier.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:41][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSupplierOrg.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:41][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSystem.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:41][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysTable.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:41][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysTableAct.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:41][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysTemplat.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:41][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysTemplatCell.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:41][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysUser.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:41][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysUserLogin.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:42][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysUserRole.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:42][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteAccount.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:42][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteAccountLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:42][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteCashOnDelivery.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:42][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteCashOnDeliveryLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:42][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteDeposit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:42][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteDepositLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:42][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteOther.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:42][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteOtherLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:42][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:42][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecDepBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:43][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecDepWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:43][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecOtherBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:43][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecOtherWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:43][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:43][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNoteAccountPayable.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:43][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNoteAccountPayableLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:43][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNoteDepositPayable.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:43][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNoteDepositPayableLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:43][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNotePayable.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:43][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNotePayableLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:43][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:43][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayDepBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:43][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayDepWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:44][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayOtherBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:44][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayOtherWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:44][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:44][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:44][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstInLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:44][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstInRed.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:44][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstInRedLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:44][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstMvInvoiceIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:44][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstMvInvoiceInLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:44][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstMvInvoiceOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:44][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstMvInvoiceOutLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:44][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:44][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstOutLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:45][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstOutRed.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:45][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstOutRedLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:45][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstPurInvoice.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:45][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstPurInvoiceLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:45][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstPurInvoiceRed.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:45][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstPurInvoiceRedLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:45][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstSalInvoice.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:45][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstSalInvoiceLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:45][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstSalInvoiceRed.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:45][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstSalInvoiceRedLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:45][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgAttemper.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:45][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgLogin.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:39:45][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgTran.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:40:51][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.sys.Sys】信息...
+[2016-12-30 13:40:51][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.lg.Lg】信息...
+[2016-12-30 13:40:51][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.gl.Gl】信息...
+[2016-12-30 13:40:51][INFO ] irille.pub.svr.DbPool
+DbPool初始化开始
+[2016-12-30 13:40:51][INFO ] snaq.db.ConnectionPoolManager
+Loaded ConnectionPoolManager properties with encoding UTF-8
+[2016-12-30 13:40:51][INFO ] snaq.db.ConnectionPoolManager.irille
+irille: Created pool irille (minpool=0,maxpool=100,maxsize=100,idleTimeout=60)
+[2016-12-30 13:40:51][INFO ] irille.pub.svr.DbPool
+DbPool初始化成功
+[2016-12-30 13:40:51][INFO ] irille.pub.svr.DbPool
+init poolManager end...
+[2016-12-30 13:40:51][INFO ] snaq.db.ConnectionPool.irille
+irille: Getting connection (user/password): jdbc:mysql://localhost:3306/erp?useUnicode=true&characterEncoding=UTF8
+[2016-12-30 13:40:51][INFO ] snaq.db.ConnectionPool.irille
+irille: Created a new connection
+[2016-12-30 13:40:51][ERROR] irille.gl.gl.GlSubjectDAO
+codeError:科目代码[01]需要以上级科目代码[102]开头
+[2016-12-30 13:52:47][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.sys.Sys】信息...
+[2016-12-30 13:52:47][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.lg.Lg】信息...
+[2016-12-30 13:52:47][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.gl.Gl】信息...
+[2016-12-30 13:52:47][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsDemand.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:47][INFO ] irille.pub.svr.DbPool
+DbPool初始化开始
+[2016-12-30 13:52:47][INFO ] snaq.db.ConnectionPoolManager
+Loaded ConnectionPoolManager properties with encoding UTF-8
+[2016-12-30 13:52:47][INFO ] snaq.db.ConnectionPoolManager.irille
+irille: Created pool irille (minpool=0,maxpool=100,maxsize=100,idleTimeout=60)
+[2016-12-30 13:52:47][INFO ] irille.pub.svr.DbPool
+DbPool初始化成功
+[2016-12-30 13:52:47][INFO ] irille.pub.svr.DbPool
+init poolManager end...
+[2016-12-30 13:52:47][INFO ] snaq.db.ConnectionPool.irille
+irille: Getting connection (user/password): jdbc:mysql://localhost:3306/erp?useUnicode=true&characterEncoding=UTF8
+[2016-12-30 13:52:47][INFO ] snaq.db.ConnectionPool.irille
+irille: Created a new connection
+[2016-12-30 13:52:48][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsDemandDirect.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:48][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGain.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:48][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGainLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:48][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:49][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGoodsCmb.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:49][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGoodsKind.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:49][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:49][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsInit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:49][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsInitLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:49][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsInLineView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:49][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsJlStock.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:49][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsJlStockLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:49][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsLocation.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:49][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsLoss.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:49][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsLossLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:49][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsMovement.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:50][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsMovementLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:50][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:50][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsOutLineView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:50][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPhyinv.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:50][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPhyinvBatchLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:51][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPhyinvGoodsLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:51][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPrice.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPriceCtl.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPriceGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPriceGoodsCell.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPriceGoodsKind.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsReportMvOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsReportPurIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsReportSalOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsRequest.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsRequestLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsSplit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsSplitLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsStock.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsStockBatch.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsStockLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsStockStimate.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsUnite.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsUniteLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:52][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsUom.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsUomType.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsWarehouse.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteAccount.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.sys.Sys】信息...
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteAccountLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.core.lg.Lg】信息...
+[2016-12-30 13:52:53][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.gl.Gl】信息...
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteCashOnDelivery.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsDemand.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] irille.pub.svr.DbPool
+DbPool初始化开始
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteCashOnDeliveryLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] snaq.db.ConnectionPoolManager
+Loaded ConnectionPoolManager properties with encoding UTF-8
+[2016-12-30 13:52:53][INFO ] snaq.db.ConnectionPoolManager.irille
+irille: Created pool irille (minpool=0,maxpool=100,maxsize=100,idleTimeout=60)
+[2016-12-30 13:52:53][INFO ] irille.pub.svr.DbPool
+DbPool初始化成功
+[2016-12-30 13:52:53][INFO ] irille.pub.svr.DbPool
+init poolManager end...
+[2016-12-30 13:52:53][INFO ] snaq.db.ConnectionPool.irille
+irille: Getting connection (user/password): jdbc:mysql://localhost:3306/erp?useUnicode=true&characterEncoding=UTF8
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteDeposit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteDepositLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteOther.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteOtherLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecDepBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] snaq.db.ConnectionPool.irille
+irille: Created a new connection
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecDepWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecOtherBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsDemandDirect.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecOtherWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:53][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGain.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGainLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\frm\FrmHandover.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\frm\FrmHandoverLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGoodsCmb.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsGoodsKind.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\frm\FrmLink.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\frm\FrmPending.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsInit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstInLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsInitLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstInRed.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsInLineView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsJlStock.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstInRedLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstMvInvoiceIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsJlStockLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstMvInvoiceInLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsLocation.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsLoss.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:54][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstMvInvoiceOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstMvInvoiceOutLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsLossLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsMovement.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstOutLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsMovementLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstOutRed.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstOutRedLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsOutLineView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPhyinv.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPhyinvBatchLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstPurInvoice.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPhyinvGoodsLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstPurInvoiceLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPrice.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstPurInvoiceRed.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstPurInvoiceRedLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:55][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPriceCtl.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPriceGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstSalInvoice.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstSalInvoiceLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPriceGoodsCell.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsPriceGoodsKind.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstSalInvoiceRed.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstSalInvoiceRedLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsReportMvOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsReportPurIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsReportSalOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsRequest.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsRequestLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsSplit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalCollect.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalCollectView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalCustGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsSplitLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalDiscountPriv.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsStock.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalMvOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsStockBatch.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalMvOutLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsStockLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsStockStimate.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalOrder.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalOrderLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsUnite.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalPresent.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:56][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsUniteLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalPresentLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalPriceProt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsUom.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalPriceProtMv.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsUomType.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalReserve.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gs\GsWarehouse.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalReserveLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteAccount.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalRetail.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteAccountLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalRetailLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteCashOnDelivery.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalRtn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalRtnLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteCashOnDeliveryLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteDeposit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSale.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteDepositLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleCross.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:57][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleCrossLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:58][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteOther.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:58][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaNoteOtherLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:58][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleDirect.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:58][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleDirectLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:58][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:58][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:58][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecDepBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:58][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecDepWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:58][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDailyLedger.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:58][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDaybook.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:58][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecOtherBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:58][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecOtherWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:58][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDaybookLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:58][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rva\RvaRecWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlEntryDef.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\frm\FrmHandover.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlEntryDefLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlJournal.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\frm\FrmHandoverLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlJournalLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\frm\FrmLink.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNote.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\frm\FrmPending.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteAmtCancel.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteViewRp.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteWriteoff.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteWriteoffLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstInLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlRate.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstInRed.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlRateType.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:52:59][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstInRedLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReport.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstMvInvoiceIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportAsset.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstMvInvoiceInLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstMvInvoiceOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportAssetLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstMvInvoiceOutLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportProfit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstOutLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportProfitLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstOutRed.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlSubject.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstOutRedLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlSubjectMap.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstPurInvoice.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlTransform.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:00][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstPurInvoiceLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstPurInvoiceRed.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstPurInvoiceRedLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlGoodsLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstSalInvoice.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:01][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.rp.Rp】信息...
+[2016-12-30 13:53:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpFundMvOld.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstSalInvoiceLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpHandover.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstSalInvoiceRed.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\cst\CstSalInvoiceRedLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpHandoverLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpJournal.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalCollect.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalCollectView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:01][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalCustGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpJournalLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalDiscountPriv.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalMvOut.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNoteCashPay.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalMvOutLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalOrder.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalOrderLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNoteCashRpt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalPresent.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNotePay.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalPresentLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalPriceProt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNotePayBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalPriceProtMv.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNoteRpt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalReserve.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:02][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNoteRptBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalReserveLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpSeal.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalRetail.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpStimatePay.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalRetailLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpStimateRec.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpWorkBox.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalRtn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpWorkBoxGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalRtnLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSale.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurMvIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleCross.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurMvInLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurOrder.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleCrossLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:03][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurOrderDirect.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleDirect.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleDirectLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurOrderDirectLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\sal\SalSaleLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurOrderLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurPresent.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDailyLedger.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurPresentLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDaybook.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlDaybookLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProtApply.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlEntryDef.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlEntryDefLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProtGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProtGoodsApply.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlJournal.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProtGoodsApplyLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:04][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlJournalLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRev.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNote.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteAmtCancel.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRevLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRpt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteView.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteViewRp.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRtn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteWriteoff.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRtnLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlNoteWriteoffLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlRate.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgAttemper.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlRateType.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgLogin.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReport.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgTran.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportAsset.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNoteAccountPayable.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportAssetLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNoteAccountPayableLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:05][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNoteDepositPayable.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportProfit.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNoteDepositPayableLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlReportProfitLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNotePayable.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlSubject.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlSubjectMap.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNotePayableLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlTransform.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayDepBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayDepWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\gl\GlGoodsLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayOtherBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.bean.PackageBase
+初始化模块【class irille.gl.rp.Rp】信息...
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpFundMvOld.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayOtherWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpHandover.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpHandoverLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCell.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCom.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:06][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpJournal.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCtype.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCtypeCode.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpJournalLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCustom.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNoteCashPay.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCustomOrg.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNoteCashRpt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysDept.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNotePay.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysEm.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNotePayBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNoteRpt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysGrp.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpNoteRptBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysMenu.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysMenuAct.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpSeal.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysModule.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpStimatePay.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysOrg.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpStimateRec.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:07][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysPerson.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpWorkBox.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysPersonLink.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\rp\RpWorkBoxGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysPost.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurMvIn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysProject.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSeq.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurMvInLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSeqLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurOrder.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysShiping.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurOrderDirect.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSupplier.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurOrderDirectLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurOrderLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSupplierOrg.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurPresent.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurPresentLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSystem.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysTable.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProtApply.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:08][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysTableAct.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProtGoods.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysTemplat.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysTemplatCell.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProtGoodsApply.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysUser.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurProtGoodsApplyLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysUserLogin.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRev.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRevLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysUserRole.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRpt.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRtn.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvRole.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\pss\pur\PurRtnLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvRoleAct.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvRoleLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgAttemper.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgLogin.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:09][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvRoleTran.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvTranData.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\lg\LgTran.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvTranGrp.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNoteAccountPayable.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNoteAccountPayableLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNoteDepositPayable.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNoteDepositPayableLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNotePayable.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaNotePayableLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayDepBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayDepWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayOtherBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:10][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayOtherWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\gl\pya\PyaPayWriteoffBill.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCell.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCom.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCtype.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCtypeCode.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCustom.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysCustomOrg.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysDept.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysEm.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysGrp.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysMenu.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysMenuAct.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysModule.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:11][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysOrg.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:12][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysPerson.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:12][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysPersonLink.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:12][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysPost.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:12][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysProject.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:12][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSeq.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:12][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSeqLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:12][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysShiping.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:12][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSupplier.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:12][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSupplierOrg.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:12][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysSystem.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:12][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysTable.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:12][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysTableAct.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:12][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysTemplat.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:12][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysTemplatCell.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:12][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysUser.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:12][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysUserLogin.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:13][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\sys\SysUserRole.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:13][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvRole.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:13][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvRoleAct.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:13][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvRoleLine.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:13][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvRoleTran.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:13][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvTranData.java]已修改, 请按【F5】键同步显示内容!
+[2016-12-30 13:53:13][INFO ] irille.pub.FileText
+文件[C:\Users\Yingjianhua\workspace\erp\src\main\java\irille\core\prv\PrvTranGrp.java]已修改, 请按【F5】键同步显示内容!

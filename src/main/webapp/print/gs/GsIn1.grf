@@ -1,0 +1,215 @@
+﻿Object Report
+	Version='5.8.0.6'
+	Title='你的报表'
+	Object Font
+		Name='宋体'
+		Weight=400
+		Charset=134
+	End
+	Object Printer
+		Width=21.35
+		Height=13.95
+		LeftMargin=1.6
+		TopMargin=1.2
+		RightMargin=0.8
+		BottomMargin=0
+	End
+	Object DetailGrid
+		BorderStyles=[]
+		ShowColLine=F
+		ShowRowLine=F
+		Object Recordset
+			Items Field
+				Item
+					Name='qty'
+				End
+				Item
+					Name='uom'
+				End
+			End
+		End
+		Items Column
+			Item
+				Name='qty'
+				Width=1.7
+			End
+			Item
+				Name='uom'
+				Width=9.45
+			End
+		End
+		Object ColumnContent
+			Height=0.6
+			GrowToNextRow=T
+			Items ColumnContentCell
+				Item
+					Column='qty'
+					TextAlign=MiddleRight
+					DataField='qty'
+				End
+				Item
+					Column='uom'
+					TextAlign=MiddleCenter
+					DataField='uom'
+				End
+			End
+		End
+		Object ColumnTitle
+			Height=0.7
+			RepeatStyle=OnPage
+			Items ColumnTitleCell
+				Item
+					GroupTitle=F
+					Column='qty'
+					FreeCell=T
+					Items Control
+						Item
+							Type=StaticBox
+							Name='qty'
+							BorderStyles=[DrawBottom]
+							Dock=Fill
+							TextAlign=MiddleRight
+							Text='数量'
+						End
+					End
+				End
+				Item
+					GroupTitle=F
+					Column='uom'
+					FreeCell=T
+					Items Control
+						Item
+							Type=StaticBox
+							Name='uom'
+							BorderStyles=[DrawBottom]
+							Dock=Fill
+							TextAlign=MiddleRight
+							Text='单位'
+						End
+					End
+				End
+			End
+		End
+		Items Group
+			Item
+				Name='Group1'
+				PageGroup=T
+				Object GroupHeader
+					Visible=F
+					Height=0
+				End
+				Object GroupFooter
+					Visible=F
+					Height=0
+				End
+			End
+		End
+	End
+	Items Parameter
+		Item
+			Name='origForm.tb.name'
+		End
+		Item
+			Name='code'
+		End
+		Item
+			Name='warehouse'
+		End
+		Item
+			Name='origForm'
+		End
+		Item
+			Name='createdTime'
+			DataType=DateTime
+			Format='yyyy-MM-dd'
+		End
+	End
+	Items Section
+		Item
+			Type=PageHeader
+			Height=0
+		End
+		Item
+			Type=PageFooter
+			Height=0
+		End
+		Item
+			Type=ReportHeader
+			Name='ReportHeader1'
+			Height=5.04
+			Items Control
+				Item
+					Type=MemoBox
+					Name='orderName'
+					Left=4.7375
+					Top=0.62
+					Width=9.475
+					Height=1.24
+					Object Font
+						Name='宋体'
+						Size=202500,0
+						Bold=T
+						Charset=134
+					End
+					TextAlign=MiddleCenter
+					Text='[#{origForm.tb.name}#]入 库 单'
+				End
+				Item
+					Type=MemoBox
+					Name='code'
+					Left=1.8
+					Top=1.86
+					Width=2.98979
+					Height=0.714375
+					Text='[#{code}#]'
+				End
+				Item
+					Type=MemoBox
+					Name='warehouse'
+					Left=4.8
+					Top=1.86
+					Width=3
+					Height=0.7
+					Text='[#{warehouse}#]'
+				End
+				Item
+					Type=MemoBox
+					Name='createdTime'
+					Left=9.4
+					Top=1.86
+					Width=5.5
+					Height=0.714375
+					Text='[#{createdTime}#]'
+				End
+				Item
+					Type=MemoBox
+					Name='pageCount'
+					Left=14.9
+					Top=1.86
+					Width=1.5
+					Height=0.7
+					TextAlign=MiddleCenter
+					Text='[#SystemVar(PageCount)#]'
+				End
+				Item
+					Type=MemoBox
+					Name='pageNumber'
+					Left=16.4
+					Top=1.86
+					Width=1.5
+					Height=0.7
+					TextAlign=MiddleCenter
+					Text='[#SystemVar(PageNumber)#]'
+				End
+			End
+			RepeatOnPage=T
+		End
+		Item
+			Type=ReportFooter
+			Name='reportFooter1'
+			Height=1.8
+			PrintAtBottom=T
+			RepeatOnPage=T
+		End
+	End
+End
